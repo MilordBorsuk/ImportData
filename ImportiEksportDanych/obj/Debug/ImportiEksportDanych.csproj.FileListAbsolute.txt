@@ -1,0 +1,10 @@
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\bin\Debug\ImportiEksportDanych.exe.config
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\bin\Debug\ImportiEksportDanych.exe
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\bin\Debug\ImportiEksportDanych.pdb
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\obj\Debug\ImportiEksportDanych.csprojAssemblyReference.cache
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\obj\Debug\ImportiEksportDanych.Form1.resources
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\obj\Debug\ImportiEksportDanych.Properties.Resources.resources
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\obj\Debug\ImportiEksportDanych.csproj.GenerateResource.cache
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\obj\Debug\ImportiEksportDanych.csproj.CoreCompileInputs.cache
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\obj\Debug\ImportiEksportDanych.exe
+C:\Users\Piotr-Laptop\source\repos\ImportiEksportDanych\ImportiEksportDanych\obj\Debug\ImportiEksportDanych.pdb
